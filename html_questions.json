@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Które zwierzę to symbol Ameryki?",
+    "answer_1": "Orzeł",
+    "answer_2": "Jastrząb",
+    "answer_3": "Kondor",
+    "answer_4": "Sokół",
+    "right_answer": "Orzeł"
+  },
+
+  {
+    "title": "Ile kończyn ma pajęczak?",
+    "answer_1": "2",
+    "answer_2": "4",
+    "answer_3": "6",
+    "answer_4": "8",
+    "right_answer": "8"
+  },
+
+  {
+    "title": "Które miasto jest stolicą Polski?",
+    "answer_1": "Warszawa",
+    "answer_2": "Kraków",
+    "answer_3": "Gdańsk",
+    "answer_4": "Poznań",
+    "right_answer": "Warszawa"
+    },
+    
+    {
+    "title": "W którym roku miała miejsce bitwa pod Grunwaldem?",
+    "answer_1": "1410",
+    "answer_2": "1812",
+    "answer_3": "1939",
+    "answer_4": "1945",
+    "right_answer": "1410"
+    },
+    
+    {
+    "title": "Która planeta jest najbliżej Słońca?",
+    "answer_1": "Wenus",
+    "answer_2": "Merkury",
+    "answer_3": "Mars",
+    "answer_4": "Jowisz",
+    "right_answer": "Merkury"
+    },
+    
+    {
+    "title": "Kto jest autorem powieści 'Władca Pierścieni'?",
+    "answer_1": "J.R.R. Tolkien",
+    "answer_2": "George R.R. Martin",
+    "answer_3": "J.K. Rowling",
+    "answer_4": "Stephen King",
+    "right_answer": "J.R.R. Tolkien"
+    },
+    
+    {
+    "title": "Jak nazywa się najwyższy szczyt Afryki?",
+    "answer_1": "Kilimandżaro",
+    "answer_2": "Mont Blanc",
+    "answer_3": "Everest",
+    "answer_4": "Aconcagua",
+    "right_answer": "Kilimandżaro"
+    },
+    
+    {
+    "title": "Ile wynosi pierwiastek kwadratowy z 16?",
+    "answer_1": "2",
+    "answer_2": "4",
+    "answer_3": "8",
+    "answer_4": "16",
+    "right_answer": "4"
+    },
+    
+    {
+    "title": "Które miasto jest stolicą Włoch?",
+    "answer_1": "Rzym",
+    "answer_2": "Mediolan",
+    "answer_3": "Neapol",
+    "answer_4": "Wenecja",
+    "right_answer": "Rzym"
+    },
+    
+    {
+    "title": "Które zwierzę to symbol Australii?",
+    "answer_1": "Kangur",
+    "answer_2": "Koala",
+    "answer_3": "Emu",
+    "answer_4": "Wombat",
+    "right_answer": "Kangur"
+    },
+
+    {
+      "title": "Który kolor nie występuje na fladze Rosji?",
+      "answer_1": "Biały",
+      "answer_2": "Czerwony",
+      "answer_3": "Niebieski",
+      "answer_4": "Zielony",
+      "right_answer": "Zielony"
+      },
+      
+      {
+      "title": "Który kontynent jest największy?",
+      "answer_1": "Afryka",
+      "answer_2": "Ameryka Północna",
+      "answer_3": "Azja",
+      "answer_4": "Australia",
+      "right_answer": "Azja"
+      },
+      
+      {
+      "title": "W którym kraju leży wieża Eiffla?",
+      "answer_1": "Francja",
+      "answer_2": "Włochy",
+      "answer_3": "Niemcy",
+      "answer_4": "Hiszpania",
+      "right_answer": "Francja"
+      },
+      
+      {
+      "title": "Które miasto jest stolicą Szkocji?",
+      "answer_1": "Glasgow",
+      "answer_2": "Edynburg",
+      "answer_3": "Aberdeen",
+      "answer_4": "Dundee",
+      "right_answer": "Edynburg"
+      },
+      
+      {
+      "title": "W jakim kraju leży Rio de Janeiro?",
+      "answer_1": "Brazylia",
+      "answer_2": "Kolumbia",
+      "answer_3": "Argentyna",
+      "answer_4": "Peru",
+      "right_answer": "Brazylia"
+      },
+      
+      {
+      "title": "Które zwierzę to symbol Chin?",
+      "answer_1": "Smok",
+      "answer_2": "Tygrys",
+      "answer_3": "Panda",
+      "answer_4": "Lew",
+      "right_answer": "Smok"
+      },
+      
+      {
+      "title": "W którym roku miała miejsce rewolucja październikowa w Rosji?",
+      "answer_1": "1917",
+      "answer_2": "1905",
+      "answer_3": "1914",
+      "answer_4": "1921",
+      "right_answer": "1917"
+      },
+      
+      {
+      "title": "Który metal jest cieńszy niż ludzki włos?",
+      "answer_1": "Złoto",
+      "answer_2": "Miedź",
+      "answer_3": "Aluminium",
+      "answer_4": "Srebro",
+      "right_answer": "Aluminium"
+      },
+      
+      {
+      "title": "Który z tych języków jest najczęściej używany na świecie?",
+      "answer_1": "Mandaryński",
+      "answer_2": "Angielski",
+      "answer_3": "Hiszpański",
+      "answer_4": "Hindi",
+      "right_answer": "Mandaryński"
+      },
+      
+      {
+      "title": "Który z tych oceanów jest największy?",
+      "answer_1":"Ocean Indyjski",
+      "answer_2": "Ocean Atlantycki",
+      "answer_3": "Ocean Arktyczny",
+      "answer_4": "Ocean Spokojny",
+      "right_answer": "Ocean Spokojny"
+      }
+  ]
